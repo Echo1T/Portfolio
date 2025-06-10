@@ -11,3 +11,7 @@
 .bclr{
     background: rgba(255, 255, 255, 0.8);
 }
+
+.buttonCen{
+    text-align: center;
+}
